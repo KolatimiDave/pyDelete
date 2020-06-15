@@ -24,8 +24,9 @@ To add python to system path visit [here](https://www.edureka.co/blog/add-python
 *  Clone/download to your local pc.
 *  Open the command-line interface on your system. command prompt for windows, terminal for linux.
 *  Make sure you're in the directory where the main.py is, then run python main.py --file 'FILENAME TO BE DELETED' --folder 'ROOT DIRECTORY OF FOLDER WHERE FILES ARE'
+*  Run python main.py -h for help on the command line.
 
-NOTE : Default folder directory is current directory.  
+NOTE : Default folder directory is current directory.
 
 
 ## Project inspiration
