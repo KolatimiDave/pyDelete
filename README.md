@@ -20,14 +20,14 @@ To add python to system path visit [here](https://www.edureka.co/blog/add-python
 
 ## How it works
 
-[Fork this repository](https://github.com/login?return_to=%2FKolatimiDave%2FpyDelete)
-Clone/download to your local pc.
-Open the command-line interface on your system. command prompt for windows, terminal for linux.
-Make sure you're in the directory where the main.py is, then run python main.py --file 'FILENAME TO BE DELETED' --folder 'ROOT DIRECTORY OF FOLDER WHERE FILES ARE'
+#### [Fork this repository](https://github.com/login?return_to=%2FKolatimiDave%2FpyDelete)
+#### Clone/download to your local pc.
+#### Open the command-line interface on your system. command prompt for windows, terminal for linux.
+#### Make sure you're in the directory where the main.py is, then run python main.py --file 'FILENAME TO BE DELETED' --folder 'ROOT DIRECTORY OF FOLDER WHERE FILES ARE'
 
 NOTE : Default folder directory is current directory.  
 
 
 ## Project inspiration
-Yeah, so i cloned a github repository, and this repository had 4 folders which had 3 sub-folders and in each of all these folders there was a .DS_Store and i had to navigate 12 times to delete them.
+Yeah, so i cloned a github repository, and this repository had 4 folders which had 3 sub-folders and in each of all these folders there was a .DS_Store file and i had to navigate 12 times to delete them.
 So i thought to myself to create a command-line tool that would do this for me fast and easily anytime i want.
