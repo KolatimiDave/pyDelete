@@ -1,5 +1,5 @@
 # pyDelete
-pyDelete is a command line tool that makes it easy to delete several instances of a file in different folders and sub folders. It is implemented in python, very easy to use and it does the trick pretty fast.
+pyDelete is a command line tool that makes it easy to delete several instances of a file in different folders and sub folders. It is implemented in python, very easy to use and it works pretty fast.
 
 
   | Details            |              |
